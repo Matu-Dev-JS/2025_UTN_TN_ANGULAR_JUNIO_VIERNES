@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Smart Tv LG 43 Lm6350psb Hdr Full Hd Bluetooth Webos 4.0",
+        "price": 1199,
+        "final_price": 999,
+        "discount": 30,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_843765-MLU73339199662_122023-O.webp",
+        "installments": 6,
+        "is_same_price_with_intallments": true,
+        "arrives_free": true,
+        "arrives_free_day": "lunes",
+        "id": 1
+    },
+    {
+        "title": "Smart Tv LG 43 Lm6350psb Hdr Full Hd Bluetooth Webos 4.0",
+        "price": 1199,
+        "final_price": 999,
+        "discount": 30,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_843765-MLU73339199662_122023-O.webp",
+        "installments": 6,
+        "is_same_price_with_intallments": true,
+        "arrives_free": true,
+        "arrives_free_day": "lunes",
+        "id": 2
+    },
+    {
+        "title": "Smart Tv LG 43 Lm6350psb Hdr Full Hd Bluetooth Webos 4.0",
+        "price": 1199,
+        "final_price": 999,
+        "discount": 30,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_843765-MLU73339199662_122023-O.webp",
+        "installments": 6,
+        "is_same_price_with_intallments": true,
+        "arrives_free": true,
+        "arrives_free_day": "lunes",
+        "id": 3
+    }
+]
